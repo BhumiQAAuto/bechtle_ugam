@@ -1,0 +1,9 @@
+s3_version=v0;
+so_s3_key=AKIAJ5QXLH7XUIGL7ZPQ;
+so_s3_Secrate=vLQhFZbnK9QAJTf9HAOZheyGKJiUkUBXkseY/USl;
+so_s3_Bucket_path_IM=scrape-pool/scrapers/india/incoming/BAU/Item-Maintenance/PT;
+feedid=272;
+so_s3_file_name=PDP_bechtle.es_na_output_;
+so_store_name=bechtle.com_es;
+drive=D;
+store_name=Bechtle.com_es;
